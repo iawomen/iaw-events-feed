@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T19:15:43.681Z",
+  "generatedAt": "2026-08-02T19:17:42.615Z",
   "events": [
     {
       "id": "recaEyzRRG67adNrn",
@@ -20,6 +20,16 @@
       "url": "https://innercircle.iawomen.com/c/iaw-member-events/the-quarterly-mental-load-reset",
       "dateISO": "2026-08-17",
       "timeDisplay": "August 17 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "recYIhOAfemlVDIGp",
+      "title": "Building Your Load Management System",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-member-events/building-your-load-management-system",
+      "dateISO": "2026-08-24",
+      "timeDisplay": "August 24 • 12:00 PM – 12:30 PM ET"
     }
   ]
 }
