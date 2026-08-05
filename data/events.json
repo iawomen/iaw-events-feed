@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-08-02T19:17:42.615Z",
+  "generatedAt": "2026-08-05T18:42:12.210Z",
   "events": [
-    {
-      "id": "recaEyzRRG67adNrn",
-      "title": "The Complete Inventory: What's Actually Taking Up Space in Your Life",
-      "series": "Monday Mastermind",
-      "platform": "Monday Mastermind",
-      "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-member-events/the-complete-inventory-what-s-actually-taking-up-space-in-your-life",
-      "dateISO": "2026-08-03",
-      "timeDisplay": "August 3 • 12:00 PM – 12:30 PM ET"
-    },
     {
       "id": "recYw7LqSgtEKtc0N",
       "title": "The Quarterly Mental Load Reset",
@@ -30,6 +20,16 @@
       "url": "https://innercircle.iawomen.com/c/iaw-member-events/building-your-load-management-system",
       "dateISO": "2026-08-24",
       "timeDisplay": "August 24 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "recUhDlXfxHq9MNCX",
+      "title": "Friday Focus",
+      "series": "Virtual Coffee",
+      "platform": "Virtual Coffee",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/friday-focus-aug-28-2026",
+      "dateISO": "2026-08-28",
+      "timeDisplay": "August 28 • 12:00 pm – 12:30 pm ET"
     }
   ]
 }
