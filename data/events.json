@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T18:42:12.210Z",
+  "generatedAt": "2026-08-07T14:03:57.840Z",
   "events": [
     {
       "id": "recYw7LqSgtEKtc0N",
@@ -30,6 +30,16 @@
       "url": "https://innercircle.iawomen.com/c/iaw-events/friday-focus-aug-28-2026",
       "dateISO": "2026-08-28",
       "timeDisplay": "August 28 • 12:00 pm – 12:30 pm ET"
+    },
+    {
+      "id": "recFJHOqIz5MMBiGw",
+      "title": "Closing Gaps Through Belonging: A New Approach to Educational Equity",
+      "series": "Ask the Expert",
+      "platform": "Ask the Expert",
+      "chapter": "",
+      "url": "https://www.linkedin.com/events/7491491484588736512?viewAsMember=true",
+      "dateISO": "2026-08-20",
+      "timeDisplay": "August 20 • 5:30 PM – 6:00 PM ET"
     }
   ]
 }
