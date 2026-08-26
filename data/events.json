@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T15:31:43.881Z",
+  "generatedAt": "2026-08-26T15:38:40.222Z",
   "events": [
     {
       "id": "recUhDlXfxHq9MNCX",
@@ -69,7 +69,7 @@
       "chapter": "Las Vegas",
       "url": "https://www.eventbrite.com/e/1997698287354?aff=oddtdtcreator",
       "dateISO": "2026-09-08",
-      "timeDisplay": "5:30pm"
+      "timeDisplay": "5:30 pm"
     },
     {
       "id": "recgcBBCVG6GHVWwK",
@@ -119,7 +119,7 @@
       "chapter": "Virtual Chapter",
       "url": "https://www.eventbrite.com/e/1995971283840?aff=oddtdtcreator",
       "dateISO": "2026-09-17",
-      "timeDisplay": "8:00 PM"
+      "timeDisplay": "8:00 pm"
     },
     {
       "id": "recbktlKmI1LqjzmY",
@@ -190,6 +190,46 @@
       "url": "https://innercircle.iawomen.com/c/iaw-events/she-means-business",
       "dateISO": "2026-09-30",
       "timeDisplay": "1:00 PM"
+    },
+    {
+      "id": "recmoeByhpNLNLnA9",
+      "title": "Women Who Build: Leading, Growing & Thriving in Small Business",
+      "series": "Local Chapters - Virtual",
+      "platform": "Local Chapters - Virtual",
+      "chapter": "Virtual Chapter",
+      "url": "https://www.eventbrite.com/e/1998888112152?aff=oddtdtcreator",
+      "dateISO": "2026-10-08",
+      "timeDisplay": "8:00 pm "
+    },
+    {
+      "id": "recAge5sBjiHnuwNN",
+      "title": "Join us at IAW Las Vegas - Volunteer with us at The Just One Project!",
+      "series": "Local Chapters - Las Vegas",
+      "platform": "Local Chapters - Las Vegas",
+      "chapter": "Las Vegas",
+      "url": "https://www.eventbrite.com/e/1983086747846?aff=oddtdtcreator",
+      "dateISO": "2026-10-24",
+      "timeDisplay": "8:00 am"
+    },
+    {
+      "id": "recbp63lVuwN8BZw2",
+      "title": "Chaos to Calm: An Interactive Reset for Women in Leadership",
+      "series": "Local Chapters - Virtual",
+      "platform": "Local Chapters - Virtual",
+      "chapter": "Virtual Chapter",
+      "url": "https://www.eventbrite.com/e/1998890673814?aff=oddtdtcreator",
+      "dateISO": "2026-12-10",
+      "timeDisplay": "8:00 pm"
+    },
+    {
+      "id": "rec3QM24U2VxbiBGW",
+      "title": "Join us at IAW Las Vegas - Volunteer with us at The Just One Project!",
+      "series": "Local Chapters - Las Vegas",
+      "platform": "Local Chapters - Las Vegas",
+      "chapter": "Las Vegas",
+      "url": "https://www.eventbrite.com/e/1983103788816?aff=oddtdtcreator",
+      "dateISO": "2026-12-19",
+      "timeDisplay": "8:00 am"
     }
   ]
 }
