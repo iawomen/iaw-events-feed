@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-08-26T11:46:44.989Z",
+  "generatedAt": "2026-08-26T15:24:03.020Z",
   "events": [
+    {
+      "id": "recUhDlXfxHq9MNCX",
+      "title": "Friday Focus",
+      "series": "Virtual Coffee",
+      "platform": "Virtual Coffee",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/friday-focus-aug-28-2026",
+      "dateISO": "2026-08-28",
+      "timeDisplay": "12:00 pm"
+    },
+    {
+      "id": "rec6u7KytSTFmo4tn",
+      "title": "Win Monday. Win the Week.",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-member-events/win-monday-win-the-week",
+      "dateISO": "2026-08-31",
+      "timeDisplay": "12:00pm"
+    },
     {
       "id": "recrmg4VQ31aDfBfS",
       "title": "The Operator to Owner Shift: What Changes When You Think Like a CEO",
@@ -9,7 +29,17 @@
       "chapter": "",
       "url": "https://innercircle.iawomen.com/c/iaw-events/operator-to-owner-shift",
       "dateISO": "2026-09-02",
-      "timeDisplay": "September 2 • 1:00 PM – 2:00 PM ET"
+      "timeDisplay": "1:00 PM"
+    },
+    {
+      "id": "recnasYXitb74vfCf",
+      "title": "Redefining Success: Choosing Purpose Over Paycheck",
+      "series": "Ask the Expert",
+      "platform": "Ask the Expert",
+      "chapter": "",
+      "url": "https://www.linkedin.com/events/7496199049616896000?viewAsMember=true",
+      "dateISO": "2026-09-03",
+      "timeDisplay": "2:30 PM"
     }
   ]
 }
