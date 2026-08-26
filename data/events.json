@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T15:24:03.020Z",
+  "generatedAt": "2026-08-26T15:31:43.881Z",
   "events": [
     {
       "id": "recUhDlXfxHq9MNCX",
@@ -40,6 +40,156 @@
       "url": "https://www.linkedin.com/events/7496199049616896000?viewAsMember=true",
       "dateISO": "2026-09-03",
       "timeDisplay": "2:30 PM"
+    },
+    {
+      "id": "recR5KJDAiR1LJ94m",
+      "title": "Friday Focus",
+      "series": "Virtual Coffee",
+      "platform": "Virtual Coffee",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/friday-focus-sept-4-2026",
+      "dateISO": "2026-09-04",
+      "timeDisplay": "12:00 pm"
+    },
+    {
+      "id": "rec5gVAcN897wZVRt",
+      "title": "The Performance Audit",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/the-performance-audit",
+      "dateISO": "2026-09-07",
+      "timeDisplay": "12:00pm"
+    },
+    {
+      "id": "rec1gr3Frx9q1IVdx",
+      "title": "COMING OUT OF SCARCITY SEASON: LEADING, LAUGHING & LIVING WELL",
+      "series": "Local Chapters - Las Vegas",
+      "platform": "Local Chapters - Las Vegas",
+      "chapter": "Las Vegas",
+      "url": "https://www.eventbrite.com/e/1997698287354?aff=oddtdtcreator",
+      "dateISO": "2026-09-08",
+      "timeDisplay": "5:30pm"
+    },
+    {
+      "id": "recgcBBCVG6GHVWwK",
+      "title": "",
+      "series": "Maximize Your Membership + Virtual Coffee",
+      "platform": "Maximize Your Membership + Virtual Coffee",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/maximize-your-membership-sep-2026",
+      "dateISO": "2026-09-11",
+      "timeDisplay": "1:00 PM"
+    },
+    {
+      "id": "recrOGp6QVr93I533",
+      "title": "Whose Standards Are You Actually Living By?",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/whose-standards",
+      "dateISO": "2026-09-14",
+      "timeDisplay": "12:00pm"
+    },
+    {
+      "id": "recdKCwRxdbrncnzy",
+      "title": "UNMUTED: Empowering Leaders to Break Free from Silence",
+      "series": "Ask the Expert",
+      "platform": "Ask the Expert",
+      "chapter": "",
+      "url": "",
+      "dateISO": "2026-09-14",
+      "timeDisplay": "1:30 PM"
+    },
+    {
+      "id": "recirL8QnV4Swwcvd",
+      "title": "The Comeback Strategy: How to Rebuild Momentum After Anything",
+      "series": "HERizon Insights",
+      "platform": "HERizon Insights",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/comback-strategy",
+      "dateISO": "2026-09-16",
+      "timeDisplay": "1:00 PM"
+    },
+    {
+      "id": "recZWzBTRJszodZ7f",
+      "title": "Stop Putting Yourself Last: Making Self-Priority Your Highest Business Strategy",
+      "series": "Local Chapters - Virtual",
+      "platform": "Local Chapters - Virtual",
+      "chapter": "Virtual Chapter",
+      "url": "https://www.eventbrite.com/e/1995971283840?aff=oddtdtcreator",
+      "dateISO": "2026-09-17",
+      "timeDisplay": "8:00 PM"
+    },
+    {
+      "id": "recbktlKmI1LqjzmY",
+      "title": "Friday Focus",
+      "series": "Virtual Coffee",
+      "platform": "Virtual Coffee",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/friday-focus-sept-18-2026",
+      "dateISO": "2026-09-18",
+      "timeDisplay": "12:00 PM"
+    },
+    {
+      "id": "rec998fizw9awTMTt",
+      "title": "This Is What Authentic Actually Looks Like",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/authentic-looks-like",
+      "dateISO": "2026-09-21",
+      "timeDisplay": "12:00pm"
+    },
+    {
+      "id": "recVVrrmLIGiDm9i5",
+      "title": "Get the Yes: How to Close High-Stakes Conversations",
+      "series": "Innovator + Influencer Roundtable",
+      "platform": "Innovator + Influencer Roundtable",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/sept-26-roundtable",
+      "dateISO": "2026-09-23",
+      "timeDisplay": "4:00 PM"
+    },
+    {
+      "id": "recvFva9xQzgVb4Oe",
+      "title": "",
+      "series": "Virtual Coffee",
+      "platform": "Virtual Coffee",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/friday-focus-sept-25-2026",
+      "dateISO": "2026-09-25",
+      "timeDisplay": "12:00 PM"
+    },
+    {
+      "id": "recPFsF9gWMm08iBu",
+      "title": "Making Authenticity Your Default, Not Your Exception",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/authenticity-the-default",
+      "dateISO": "2026-09-28",
+      "timeDisplay": "12:00pm"
+    },
+    {
+      "id": "rechyZTLIqiQWY895",
+      "title": "Authentic. Connected. Positioned.",
+      "series": "Growth Lab",
+      "platform": "Growth Lab",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/growth-lab-september26",
+      "dateISO": "2026-09-29",
+      "timeDisplay": "7:00 PM"
+    },
+    {
+      "id": "recqCLkDQNKpaXsnz",
+      "title": "She Means Business: The Toolkit Every Woman Founder Needs",
+      "series": "HERizon Insights",
+      "platform": "HERizon Insights",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/she-means-business",
+      "dateISO": "2026-09-30",
+      "timeDisplay": "1:00 PM"
     }
   ]
 }
