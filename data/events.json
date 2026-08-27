@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T15:44:05.867Z",
+  "generatedAt": "2026-08-27T17:25:17.182Z",
   "events": [
     {
       "id": "recUhDlXfxHq9MNCX",
@@ -97,7 +97,7 @@
       "series": "Ask the Expert",
       "platform": "Ask the Expert",
       "chapter": "",
-      "url": "",
+      "url": "https://www.linkedin.com/events/7498410844020469760?viewAsMember=true",
       "dateISO": "2026-09-14",
       "timeDisplay": "September 14 • 1:30 PM – 2:00 PM ET"
     },
@@ -120,6 +120,16 @@
       "url": "https://www.eventbrite.com/e/1995971283840?aff=oddtdtcreator",
       "dateISO": "2026-09-17",
       "timeDisplay": "September 17 • 8:00 pm – 9:00 pm ET"
+    },
+    {
+      "id": "reca4xF8l0zuFaKAV",
+      "title": "The Hidden Cost of Success™: Two Sides of the Same Disengagement",
+      "series": "Ask the Expert",
+      "platform": "Ask the Expert",
+      "chapter": "",
+      "url": "https://www.linkedin.com/events/7498756098074726402?viewAsMember=true",
+      "dateISO": "2026-09-17",
+      "timeDisplay": "September 17 • 3:00 PM – 3:30 PM ET"
     },
     {
       "id": "recbktlKmI1LqjzmY",
