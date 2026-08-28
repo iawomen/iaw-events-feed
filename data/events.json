@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T16:46:31.897Z",
+  "generatedAt": "2026-08-28T17:10:38.725Z",
   "events": [
     {
       "id": "recUhDlXfxHq9MNCX",
@@ -162,6 +162,16 @@
       "timeDisplay": "September 23 • 4:00 PM – 5:00 PM ET"
     },
     {
+      "id": "recXA7bv0mS5h4PzE",
+      "title": "THE POWER OF THE ROOM | IAW DFW Fall Connection Mixer",
+      "series": "Local Chapters - DFW",
+      "platform": "Local Chapters - DFW",
+      "chapter": "DFW",
+      "url": "https://www.eventbrite.com/e/1999113172313?aff=oddtdtcreator",
+      "dateISO": "2026-09-24",
+      "timeDisplay": "September 24 • 6:00 PM – 8:00 PM CT"
+    },
+    {
       "id": "recvFva9xQzgVb4Oe",
       "title": "",
       "series": "Virtual Coffee",
@@ -209,7 +219,7 @@
       "chapter": "",
       "url": "https://innercircle.iawomen.com/c/iaw-events/oct26-welcome-to-iaw",
       "dateISO": "2026-10-02",
-      "timeDisplay": "October 2 • 12:00 PM – 12:45 PM "
+      "timeDisplay": "October 2 • 12:00 PM – 12:45 PM ET"
     },
     {
       "id": "recmoeByhpNLNLnA9",
@@ -230,6 +240,26 @@
       "url": "https://www.eventbrite.com/e/1983086747846?aff=oddtdtcreator",
       "dateISO": "2026-10-24",
       "timeDisplay": "October 24 • 8:00 am – 10:00 am PT"
+    },
+    {
+      "id": "recDVcmW9CgI1tOtu",
+      "title": "Inside IAW: Open Office Hours with the President",
+      "series": "Maximize Your Membership + Virtual Coffee copy",
+      "platform": "Maximize Your Membership + Virtual Coffee copy",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/maximize-your-membership-nov-2026",
+      "dateISO": "2026-11-06",
+      "timeDisplay": "November 6 • 12:00 PM – 12:45 PM ET"
+    },
+    {
+      "id": "recX3NJqhs91wNw9q",
+      "title": "Inside IAW: Open Office Hours with the President",
+      "series": "Maximize Your Membership + Virtual Coffee",
+      "platform": "Maximize Your Membership + Virtual Coffee",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/maximize-your-membership-dec-2026",
+      "dateISO": "2026-12-04",
+      "timeDisplay": "December 4 • 12:00 PM – 12:45 PM ET"
     },
     {
       "id": "recbp63lVuwN8BZw2",
