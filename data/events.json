@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T16:30:58.040Z",
+  "generatedAt": "2026-09-24T19:54:02.154Z",
   "events": [
     {
       "id": "recXA7bv0mS5h4PzE",
@@ -92,6 +92,16 @@
       "timeDisplay": "October 8 • 8:00 pm  – 9:00 pm ET"
     },
     {
+      "id": "recBnyS2FH2aqRkxf",
+      "title": "Speed Networking / Share Your Ask",
+      "series": "Friday Focus",
+      "platform": "Friday Focus",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/speed-networking-share-your-ask-october-9-2026",
+      "dateISO": "2026-10-09",
+      "timeDisplay": "October 9 • 12:00 pm – 12:45pm ET"
+    },
+    {
       "id": "recnhiRihHccdjsqO",
       "title": "The Circle She Has vs. The Circle She Needs",
       "series": "Monday Mastermind",
@@ -112,6 +122,26 @@
       "timeDisplay": "October 14 • 4:00 PM – 5:00 PM ET"
     },
     {
+      "id": "recoZdLvOfui8c5hm",
+      "title": "Beyond the Pink Ribbon: Real Conversations About Breast Cancer",
+      "series": "Local Chapters - Washington DC",
+      "platform": "Local Chapters - Washington DC",
+      "chapter": "Washington DC",
+      "url": "https://www.eventbrite.com/e/2002149709678?aff=oddtdtcreator",
+      "dateISO": "2026-10-15",
+      "timeDisplay": "October 15 • 6:00 PM  – 8:00 PM  ET"
+    },
+    {
+      "id": "recJMXMnblLNeCixC",
+      "title": "Pitch Practice",
+      "series": "Friday Focus",
+      "platform": "Friday Focus",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/pitch-practice-october-16-2026",
+      "dateISO": "2026-10-16",
+      "timeDisplay": "October 16 • 12:00 pm – 12:45pm ET"
+    },
+    {
       "id": "recnwq9YP4JOrGuhl",
       "title": "The Graceful Exit",
       "series": "Monday Mastermind",
@@ -122,6 +152,16 @@
       "timeDisplay": "October 19 • 12:00 PM – 12:30 PM ET"
     },
     {
+      "id": "recrFzYJ8EHmF0IEV",
+      "title": "Breast Cancer Awareness ",
+      "series": "Local Chapters - Las Vegas",
+      "platform": "Local Chapters - Las Vegas",
+      "chapter": "Las Vegas",
+      "url": "https://www.eventbrite.com/e/2002081375288?aff=oddtdtcreator",
+      "dateISO": "2026-10-20",
+      "timeDisplay": "October 20 • 5:30 pm – 7:30 pm PT"
+    },
+    {
       "id": "recks2Y5DwHCTvZfH",
       "title": "The Success Trap: Ambition, Identity, and What It's Actually Costing You",
       "series": "HERizon Insights",
@@ -130,6 +170,16 @@
       "url": "https://innercircle.iawomen.com/c/iaw-events?status=draft&sort=asc&iframe=false",
       "dateISO": "2026-10-21",
       "timeDisplay": "October 21 • 2:00 PM – 3:00 PM ET"
+    },
+    {
+      "id": "recJgKaH1Tj2IXqTp",
+      "title": "Book Club — What Book Changed Everything for You?",
+      "series": "Friday Focus",
+      "platform": "Friday Focus",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/book-club-what-book-changed-everything-for-you-october-23-2026",
+      "dateISO": "2026-10-23",
+      "timeDisplay": "October 23 • 12:00 pm – 12:45pm ET"
     },
     {
       "id": "recAge5sBjiHnuwNN",
@@ -150,6 +200,16 @@
       "url": "https://innercircle.iawomen.com/c/iaw-events/monday-10-26-26",
       "dateISO": "2026-10-26",
       "timeDisplay": "October 26 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "recePaWhCjtmrV4Nf",
+      "title": "Collaboration Board",
+      "series": "Friday Focus",
+      "platform": "Friday Focus",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/collaboration-board-october-30-2026-90fd42",
+      "dateISO": "2026-10-30",
+      "timeDisplay": "October 30 • 12:00 pm – 12:45pm ET"
     },
     {
       "id": "reczdZqZCAuDP5dqz",
@@ -202,6 +262,16 @@
       "timeDisplay": "November 11 • 2:00 PM – 3:00 PM ET"
     },
     {
+      "id": "recuOFyrysKqmI34R",
+      "title": "Speed Networking / Share Your Ask",
+      "series": "Friday Focus",
+      "platform": "Friday Focus",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/speed-networking-share-your-ask-november-13-2026-340da4",
+      "dateISO": "2026-11-13",
+      "timeDisplay": "November 13 • 12:00 pm – 12:45pm ET"
+    },
+    {
       "id": "recZPxyLlvAxUtwFf",
       "title": "The Note That Could Change Everything",
       "series": "Monday Mastermind",
@@ -212,6 +282,16 @@
       "timeDisplay": "November 16 • 12:00 PM – 12:30 PM ET"
     },
     {
+      "id": "rec0NXtfAc1CgTMc1",
+      "title": "A Grateful, Thankful Friendsgiving ",
+      "series": "Local Chapters - Las Vegas",
+      "platform": "Local Chapters - Las Vegas",
+      "chapter": "Las Vegas",
+      "url": "https://www.eventbrite.com/e/2002084782479?aff=oddtdtcreator",
+      "dateISO": "2026-11-17",
+      "timeDisplay": "November 17 • 5:30 pm – 7:30 pm  PT"
+    },
+    {
       "id": "rec1UAfjgvGGHT1d4",
       "title": "Leading on Your Own Terms: Inside the System or Outside It",
       "series": "HERizon Insights",
@@ -220,6 +300,16 @@
       "url": "https://innercircle.iawomen.com/c/iaw-events?status=draft&sort=asc&iframe=false",
       "dateISO": "2026-11-18",
       "timeDisplay": "November 18 • 1:00 PM – 2:00 PM ET"
+    },
+    {
+      "id": "recs5g39PQAWMVP5D",
+      "title": "Content Build",
+      "series": "Friday Focus",
+      "platform": "Friday Focus",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/content-build-november-20-2026-340da4-fc10d7",
+      "dateISO": "2026-11-20",
+      "timeDisplay": "November 20 • 12:00 pm – 12:45pm ET"
     },
     {
       "id": "recjLnrQdyBvhjWuI",
@@ -292,6 +382,16 @@
       "timeDisplay": "December 10 • 8:00 pm – 9:00 pm ET"
     },
     {
+      "id": "recw9GJjNP1He9Wid",
+      "title": "Speed Networking / Share Your Ask",
+      "series": "Friday Focus",
+      "platform": "Friday Focus",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/speed-networking-share-your-ask-december-11-2026-340da4-fc10d7-26e1bd",
+      "dateISO": "2026-12-11",
+      "timeDisplay": "December 11 • 12:00 pm – 12:45pm ET"
+    },
+    {
       "id": "rec2VIEXWvD33pmY2",
       "title": "Your Year-End Self-Assessment",
       "series": "Monday Mastermind",
@@ -300,6 +400,16 @@
       "url": "https://innercircle.iawomen.com/c/iaw-events/monday-12-14-26",
       "dateISO": "2026-12-14",
       "timeDisplay": "December 14 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "recdxr7bG5FGWYbyH",
+      "title": "Vision Board + Goal Setting: Look Ahead to 2027",
+      "series": "Friday Focus",
+      "platform": "Friday Focus",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/vision-board-goal-setting-look-ahead-to-2027-december-18-2026-340da4-fc10d7-26e1bd-13659a",
+      "dateISO": "2026-12-18",
+      "timeDisplay": "December 18 • 12:00 pm – 12:45pm ET"
     },
     {
       "id": "rec3QM24U2VxbiBGW",
