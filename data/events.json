@@ -1,36 +1,6 @@
 {
-  "generatedAt": "2026-09-21T11:44:48.567Z",
+  "generatedAt": "2026-09-24T16:30:58.040Z",
   "events": [
-    {
-      "id": "rec998fizw9awTMTt",
-      "title": "This Is What Authentic Actually Looks Like",
-      "series": "Monday Mastermind",
-      "platform": "Monday Mastermind",
-      "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events/authentic-looks-like",
-      "dateISO": "2026-09-21",
-      "timeDisplay": "September 21 • 12:00pm – 12:30pm ET"
-    },
-    {
-      "id": "recVVrrmLIGiDm9i5",
-      "title": "Get the Yes: How to Close High-Stakes Conversations",
-      "series": "Innovator + Influencer Roundtable",
-      "platform": "Innovator + Influencer Roundtable",
-      "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events/sept-26-roundtable",
-      "dateISO": "2026-09-23",
-      "timeDisplay": "September 23 • 5:00 PM – 6:00 PM ET"
-    },
-    {
-      "id": "recrmg4VQ31aDfBfS",
-      "title": "The Operator to Owner Shift: What Changes When You Think Like a CEO",
-      "series": "HERizon Insights",
-      "platform": "HERizon Insights",
-      "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events/operator-to-owner-shift",
-      "dateISO": "2026-09-23",
-      "timeDisplay": "September 23 • 2:30 PM – 3:30 PM ET"
-    },
     {
       "id": "recXA7bv0mS5h4PzE",
       "title": "THE POWER OF THE ROOM | IAW DFW Fall Connection Mixer",
@@ -92,6 +62,26 @@
       "timeDisplay": "October 2 • 12:00 PM – 12:45 PM ET"
     },
     {
+      "id": "recIIYRhjQa3SwixP",
+      "title": "Is Your Network Actually Supporting Your Net Worth?",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-10-5-26",
+      "dateISO": "2026-10-05",
+      "timeDisplay": "October 5 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "recPEC98W2vE89doI",
+      "title": "The AI Shift: What Workforces Need Now",
+      "series": "HERizon Insights",
+      "platform": "HERizon Insights",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events?status=draft&sort=asc&iframe=false",
+      "dateISO": "2026-10-07",
+      "timeDisplay": "October 7 • 1:00 PM – 2:00 PM ET"
+    },
+    {
       "id": "recmoeByhpNLNLnA9",
       "title": "Women Who Build: Leading, Growing & Thriving in Small Business",
       "series": "Local Chapters - Virtual",
@@ -100,6 +90,46 @@
       "url": "https://www.eventbrite.com/e/1998888112152?aff=oddtdtcreator",
       "dateISO": "2026-10-08",
       "timeDisplay": "October 8 • 8:00 pm  – 9:00 pm ET"
+    },
+    {
+      "id": "recnhiRihHccdjsqO",
+      "title": "The Circle She Has vs. The Circle She Needs",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-10-12-26",
+      "dateISO": "2026-10-12",
+      "timeDisplay": "October 12 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "recdMLfKCLNpiFTtz",
+      "title": "The Negotiation Edge: Asking for More — and Actually Getting It",
+      "series": "Roundtable",
+      "platform": "Roundtable",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/roundtable-10-2026",
+      "dateISO": "2026-10-14",
+      "timeDisplay": "October 14 • 4:00 PM – 5:00 PM ET"
+    },
+    {
+      "id": "recnwq9YP4JOrGuhl",
+      "title": "The Graceful Exit",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-10-19-26",
+      "dateISO": "2026-10-19",
+      "timeDisplay": "October 19 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "recks2Y5DwHCTvZfH",
+      "title": "The Success Trap: Ambition, Identity, and What It's Actually Costing You",
+      "series": "HERizon Insights",
+      "platform": "HERizon Insights",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events?status=draft&sort=asc&iframe=false",
+      "dateISO": "2026-10-21",
+      "timeDisplay": "October 21 • 2:00 PM – 3:00 PM ET"
     },
     {
       "id": "recAge5sBjiHnuwNN",
@@ -112,6 +142,36 @@
       "timeDisplay": "October 24 • 8:00 am – 10:00 am PT"
     },
     {
+      "id": "recuVuyEZyZ0QASb7",
+      "title": "Strengthen HER Circle",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-10-26-26",
+      "dateISO": "2026-10-26",
+      "timeDisplay": "October 26 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "reczdZqZCAuDP5dqz",
+      "title": "The Opportunities Already in Front of You",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-11-2-26",
+      "dateISO": "2026-11-02",
+      "timeDisplay": "November 2 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "recwDnz6BSJOLeW2t",
+      "title": "From Success to Significance: Building a Legacy That Outlives You",
+      "series": "HERizon Insights",
+      "platform": "HERizon Insights",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events?status=draft&sort=asc&iframe=false",
+      "dateISO": "2026-11-04",
+      "timeDisplay": "November 4 • 1:00 PM – 2:00 PM ET"
+    },
+    {
       "id": "recDVcmW9CgI1tOtu",
       "title": "Inside IAW: Open Office Hours with the President",
       "series": "Maximize Your Membership + Virtual Coffee copy",
@@ -120,6 +180,76 @@
       "url": "https://innercircle.iawomen.com/c/iaw-events/maximize-your-membership-nov-2026",
       "dateISO": "2026-11-06",
       "timeDisplay": "November 6 • 12:00 PM – 12:45 PM ET"
+    },
+    {
+      "id": "rec9YWaYo7rprrXbU",
+      "title": "90 Days to Your Next Level",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-11-9-26",
+      "dateISO": "2026-11-09",
+      "timeDisplay": "November 9 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "rec5m0pEh4rqQyRMM",
+      "title": "The AI Advantage: Using Technology to Work Smarter Before 2027",
+      "series": "Roundtable",
+      "platform": "Roundtable",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/roundtable-11-2026",
+      "dateISO": "2026-11-11",
+      "timeDisplay": "November 11 • 2:00 PM – 3:00 PM ET"
+    },
+    {
+      "id": "recZPxyLlvAxUtwFf",
+      "title": "The Note That Could Change Everything",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-11-16-26",
+      "dateISO": "2026-11-16",
+      "timeDisplay": "November 16 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "rec1UAfjgvGGHT1d4",
+      "title": "Leading on Your Own Terms: Inside the System or Outside It",
+      "series": "HERizon Insights",
+      "platform": "HERizon Insights",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events?status=draft&sort=asc&iframe=false",
+      "dateISO": "2026-11-18",
+      "timeDisplay": "November 18 • 1:00 PM – 2:00 PM ET"
+    },
+    {
+      "id": "recjLnrQdyBvhjWuI",
+      "title": "Just Keep Rolling: How She Moves When It's Hard",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-11-23-26",
+      "dateISO": "2026-11-23",
+      "timeDisplay": "November 23 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "recyi6V9ftFGGkhOs",
+      "title": "Navigating the Season of Stress",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-11-30-26",
+      "dateISO": "2026-11-30",
+      "timeDisplay": "November 30 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "recGeuA7d9ahzP8Uk",
+      "title": "From Surviving to Sustaining: A Leadership Conversation",
+      "series": "HERizon Insights",
+      "platform": "HERizon Insights",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events?status=draft&sort=asc&iframe=false",
+      "dateISO": "2026-12-02",
+      "timeDisplay": "December 2 • 1:00 PM – 2:00 PM ET"
     },
     {
       "id": "recX3NJqhs91wNw9q",
@@ -132,6 +262,26 @@
       "timeDisplay": "December 4 • 12:00 PM – 12:45 PM ET"
     },
     {
+      "id": "recpu3ajO7F815z6j",
+      "title": "A Year Worth Looking At",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-12-7-26",
+      "dateISO": "2026-12-07",
+      "timeDisplay": "December 7 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "recevblx5WlUEWjUO",
+      "title": "2027 Vision Architecture: Designing the Year That Breaks Your Ceiling",
+      "series": "Roundtable",
+      "platform": "Roundtable",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/roundtable-12-2026",
+      "dateISO": "2026-12-09",
+      "timeDisplay": "December 9 • 2:00 PM – 3:00 PM ET"
+    },
+    {
       "id": "recbp63lVuwN8BZw2",
       "title": "Chaos to Calm: An Interactive Reset for Women in Leadership",
       "series": "Local Chapters - Virtual",
@@ -142,6 +292,16 @@
       "timeDisplay": "December 10 • 8:00 pm – 9:00 pm ET"
     },
     {
+      "id": "rec2VIEXWvD33pmY2",
+      "title": "Your Year-End Self-Assessment",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-12-14-26",
+      "dateISO": "2026-12-14",
+      "timeDisplay": "December 14 • 12:00 PM – 12:30 PM ET"
+    },
+    {
       "id": "rec3QM24U2VxbiBGW",
       "title": "Join us at IAW Las Vegas - Volunteer with us at The Just One Project!",
       "series": "Local Chapters - Las Vegas",
@@ -150,6 +310,26 @@
       "url": "https://www.eventbrite.com/e/1983103788816?aff=oddtdtcreator",
       "dateISO": "2026-12-19",
       "timeDisplay": "December 19 • 8:00 am – 10:00 am PT"
+    },
+    {
+      "id": "recKIpz1NvddiDFMK",
+      "title": "How to Leave Things Behind",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-12-21-26",
+      "dateISO": "2026-12-21",
+      "timeDisplay": "December 21 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "recvDfP9RkQaBZZds",
+      "title": "Dear Future Me",
+      "series": "Monday Mastermind",
+      "platform": "Monday Mastermind",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-12-28-26",
+      "dateISO": "2026-12-28",
+      "timeDisplay": "December 28 • 12:00 PM – 12:30 PM ET"
     }
   ]
 }
