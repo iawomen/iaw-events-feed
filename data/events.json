@@ -1,36 +1,6 @@
 {
-  "generatedAt": "2026-09-24T21:35:58.206Z",
+  "generatedAt": "2026-09-29T13:40:59.650Z",
   "events": [
-    {
-      "id": "recXA7bv0mS5h4PzE",
-      "title": "THE POWER OF THE ROOM | IAW DFW Fall Connection Mixer",
-      "series": "Local Chapters - DFW",
-      "platform": "Local Chapters - DFW",
-      "chapter": "DFW",
-      "url": "https://www.eventbrite.com/e/1999113172313?aff=oddtdtcreator",
-      "dateISO": "2026-09-24",
-      "timeDisplay": "September 24 • 6:00 PM – 8:00 PM CT"
-    },
-    {
-      "id": "recvFva9xQzgVb4Oe",
-      "title": "",
-      "series": "Virtual Coffee",
-      "platform": "Virtual Coffee",
-      "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events/friday-focus-sept-25-2026",
-      "dateISO": "2026-09-25",
-      "timeDisplay": "September 25 • 12:00 PM – 12:30 PM ET"
-    },
-    {
-      "id": "recPFsF9gWMm08iBu",
-      "title": "Making Authenticity Your Default, Not Your Exception",
-      "series": "Monday Mastermind",
-      "platform": "Monday Mastermind",
-      "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events/authenticity-the-default",
-      "dateISO": "2026-09-28",
-      "timeDisplay": "September 28 • 12:00pm – 12:30pm ET"
-    },
     {
       "id": "rechyZTLIqiQWY895",
       "title": "Authentic. Connected. Positioned.",
@@ -87,7 +57,7 @@
       "series": "HERizon Insights",
       "platform": "HERizon Insights",
       "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events?status=draft&sort=asc&iframe=false",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/operator-to-owner-shift-95022e?sort=asc&iframe=false",
       "dateISO": "2026-10-07",
       "timeDisplay": "October 7 • 1:00 PM – 2:00 PM ET"
     },
@@ -177,7 +147,7 @@
       "series": "HERizon Insights",
       "platform": "HERizon Insights",
       "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events?status=draft&sort=asc&iframe=false",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/operator-to-owner-shift-050c81",
       "dateISO": "2026-10-21",
       "timeDisplay": "October 21 • 2:00 PM – 3:00 PM ET"
     },
@@ -257,7 +227,7 @@
       "series": "HERizon Insights",
       "platform": "HERizon Insights",
       "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events?status=draft&sort=asc&iframe=false",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/operator-to-owner-shift-050c81-acd8aa-b8f080",
       "dateISO": "2026-11-04",
       "timeDisplay": "November 4 • 1:00 PM – 2:00 PM ET"
     },
@@ -337,7 +307,7 @@
       "series": "HERizon Insights",
       "platform": "HERizon Insights",
       "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events?status=draft&sort=asc&iframe=false",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/operator-to-owner-shift-050c81-acd8aa",
       "dateISO": "2026-11-18",
       "timeDisplay": "November 18 • 1:00 PM – 2:00 PM ET"
     },
@@ -377,7 +347,7 @@
       "series": "HERizon Insights",
       "platform": "HERizon Insights",
       "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events?status=draft&sort=asc&iframe=false",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/operator-to-owner-shift-dcbe2f",
       "dateISO": "2026-12-02",
       "timeDisplay": "December 2 • 1:00 PM – 2:00 PM ET"
     },
