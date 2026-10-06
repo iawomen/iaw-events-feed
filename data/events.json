@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T13:32:01.313Z",
+  "generatedAt": "2026-10-06T20:22:37.882Z",
   "events": [
     {
       "id": "recPEC98W2vE89doI",
@@ -92,6 +92,16 @@
       "timeDisplay": "October 20 • 5:30 pm – 7:30 pm PT"
     },
     {
+      "id": "recCvAxeflzKk5Umi",
+      "title": "Relaunch of the Los Angeles Chapter and Ready to Feel More Confident on Camera",
+      "series": "Local Chapters - Los Angeles",
+      "platform": "Local Chapters - Los Angeles",
+      "chapter": "Los Angeles",
+      "url": "https://www.eventbrite.com/e/2002651080291?aff=oddtdtcreator",
+      "dateISO": "2026-10-20",
+      "timeDisplay": "October 20 • 5:30pm – 7:00pm PT"
+    },
+    {
       "id": "recks2Y5DwHCTvZfH",
       "title": "The Success Trap: Ambition, Identity, and What It's Actually Costing You",
       "series": "HERizon Insights",
@@ -100,6 +110,16 @@
       "url": "https://innercircle.iawomen.com/c/iaw-events/operator-to-owner-shift-050c81",
       "dateISO": "2026-10-21",
       "timeDisplay": "October 21 • 2:00 PM – 3:00 PM ET"
+    },
+    {
+      "id": "recGlDiNDJldvCmyp",
+      "title": "Unmasked and Unmuted: The Things Women Carry Quietly",
+      "series": "Local Chapters - DFW",
+      "platform": "Local Chapters - DFW",
+      "chapter": "DFW",
+      "url": "https://www.eventbrite.com/e/2003023473128?aff=oddtdtcreator",
+      "dateISO": "2026-10-22",
+      "timeDisplay": "October 22 • 6pm – 7pm CT"
     },
     {
       "id": "recJgKaH1Tj2IXqTp",
@@ -227,7 +247,7 @@
       "series": "Local Chapters - Virtual",
       "platform": "Local Chapters - Virtual",
       "chapter": "Virtual Chapter",
-      "url": "",
+      "url": "https://www.eventbrite.com/e/2002237769066?aff=oddtdtcreator",
       "dateISO": "2026-11-12",
       "timeDisplay": "November 12 • 8:00 PM – 9:00 PM ET"
     },
