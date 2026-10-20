@@ -1,46 +1,6 @@
 {
-  "generatedAt": "2026-10-14T20:55:48.787Z",
+  "generatedAt": "2026-10-20T15:36:04.347Z",
   "events": [
-    {
-      "id": "recdMLfKCLNpiFTtz",
-      "title": "The Negotiation Edge: Asking for More — and Actually Getting It",
-      "series": "Roundtable",
-      "platform": "Roundtable",
-      "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events/roundtable-10-2026",
-      "dateISO": "2026-10-14",
-      "timeDisplay": "October 14 • 5:00 PM – 6:00 PM ET"
-    },
-    {
-      "id": "recoZdLvOfui8c5hm",
-      "title": "Beyond the Pink Ribbon: Real Conversations About Breast Cancer",
-      "series": "Local Chapters - Washington DC",
-      "platform": "Local Chapters - Washington DC",
-      "chapter": "Washington DC",
-      "url": "https://www.eventbrite.com/e/2002149709678?aff=oddtdtcreator",
-      "dateISO": "2026-10-15",
-      "timeDisplay": "October 15 • 6:00 PM  – 8:00 PM  ET"
-    },
-    {
-      "id": "recJMXMnblLNeCixC",
-      "title": "Pitch Practice",
-      "series": "Friday Focus",
-      "platform": "Friday Focus",
-      "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events/pitch-practice-october-16-2026",
-      "dateISO": "2026-10-16",
-      "timeDisplay": "October 16 • 12:00 PM – 12:45 PM ET"
-    },
-    {
-      "id": "recnwq9YP4JOrGuhl",
-      "title": "The Graceful Exit",
-      "series": "Monday Mastermind",
-      "platform": "Monday Mastermind",
-      "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-10-19-26",
-      "dateISO": "2026-10-19",
-      "timeDisplay": "October 19 • 12:00 PM – 12:30 PM ET"
-    },
     {
       "id": "recrFzYJ8EHmF0IEV",
       "title": "Breast Cancer Awareness ",
@@ -380,6 +340,16 @@
       "url": "http://innercircle.iawomen.com/c/iaw-events/growth-lab-december-2026",
       "dateISO": "2026-12-15",
       "timeDisplay": "December 15 • 7:00 PM – 8:00 PM ET"
+    },
+    {
+      "id": "recedpydpbDujYxxN",
+      "title": "IAW DFW Holiday Soiree",
+      "series": "Local Chapters - DFW",
+      "platform": "Local Chapters - DFW",
+      "chapter": "DFW",
+      "url": "https://www.eventbrite.com/e/2003665683998?aff=oddtdtcreator",
+      "dateISO": "2026-12-17",
+      "timeDisplay": "December 17 • 6 PM – 8 PM CT"
     },
     {
       "id": "recdxr7bG5FGWYbyH",
