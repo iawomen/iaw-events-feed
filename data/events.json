@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-10-20T15:36:04.347Z",
+  "generatedAt": "2026-10-21T17:49:39.423Z",
   "events": [
-    {
-      "id": "recrFzYJ8EHmF0IEV",
-      "title": "Breast Cancer Awareness ",
-      "series": "Local Chapters - Las Vegas",
-      "platform": "Local Chapters - Las Vegas",
-      "chapter": "Las Vegas",
-      "url": "https://www.eventbrite.com/e/2002081375288?aff=oddtdtcreator",
-      "dateISO": "2026-10-20",
-      "timeDisplay": "October 20 • 5:30 PM – 7:30 PM PT"
-    },
-    {
-      "id": "recCvAxeflzKk5Umi",
-      "title": "Relaunch of the Los Angeles Chapter and Ready to Feel More Confident on Camera",
-      "series": "Local Chapters - Los Angeles",
-      "platform": "Local Chapters - Los Angeles",
-      "chapter": "Los Angeles",
-      "url": "https://www.eventbrite.com/e/2002651080291?aff=oddtdtcreator",
-      "dateISO": "2026-10-20",
-      "timeDisplay": "October 20 • 5:30 PM – 7:00 PM PT"
-    },
     {
       "id": "recks2Y5DwHCTvZfH",
       "title": "The Success Trap: Ambition, Identity, and What It's Actually Costing You",
@@ -230,6 +210,16 @@
       "url": "https://www.eventbrite.com/e/2003427765377?aff=oddtdtcreator",
       "dateISO": "2026-11-19",
       "timeDisplay": "November 19 • 6:00 PM – 8:00 PM CT"
+    },
+    {
+      "id": "recWd4XLhZx2K5Ccq",
+      "title": "Pouring Back Into You: Managing Stress, Expectations, and Energy During the Holidays",
+      "series": "Local Chapter - Washington DC",
+      "platform": "Local Chapter - Washington DC",
+      "chapter": "Washington DC",
+      "url": "https://www.eventbrite.com/e/2003724092700?aff=oddtdtcreator",
+      "dateISO": "2026-11-19",
+      "timeDisplay": "November 19 • 6:00 PM – 8:00 PM ET"
     },
     {
       "id": "recs5g39PQAWMVP5D",
