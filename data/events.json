@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-10-26T19:26:53.171Z",
+  "generatedAt": "2026-10-27T14:41:07.753Z",
   "events": [
-    {
-      "id": "recuVuyEZyZ0QASb7",
-      "title": "Strengthen HER Circle",
-      "series": "Monday Mastermind",
-      "platform": "Monday Mastermind",
-      "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events/monday-10-26-26",
-      "dateISO": "2026-10-26",
-      "timeDisplay": "October 26 • 12:00 PM – 12:30 PM ET"
-    },
-    {
-      "id": "reckNeJ0t2XsUd8Hh",
-      "title": "The Relationship Inventory: Is Your Circle Built for Where You're Going?",
-      "series": "Growth Lab",
-      "platform": "Growth Lab",
-      "chapter": "",
-      "url": "https://innercircle.iawomen.com/c/iaw-events/growth-lab-october-2026",
-      "dateISO": "2026-10-27",
-      "timeDisplay": "October 27 • 7:00 PM – 8:00 PM ET"
-    },
     {
       "id": "recDqs1akYSCdpMyn",
       "title": "Unapologetically Owning Your Awesomeness: Breaking Mental Barriers",
@@ -50,6 +30,16 @@
       "url": "https://innercircle.iawomen.com/c/iaw-events/monday-11-2-26",
       "dateISO": "2026-11-02",
       "timeDisplay": "November 2 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "reckNeJ0t2XsUd8Hh",
+      "title": "The Relationship Inventory: Is Your Circle Built for Where You're Going?",
+      "series": "Growth Lab",
+      "platform": "Growth Lab",
+      "chapter": "",
+      "url": "https://innercircle.iawomen.com/c/iaw-events/growth-lab-october-2026",
+      "dateISO": "2026-11-03",
+      "timeDisplay": "November 3 • 5:00 PM – 6:00 PM ET"
     },
     {
       "id": "recwDnz6BSJOLeW2t",
