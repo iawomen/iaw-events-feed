@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T14:11:23.813Z",
+  "generatedAt": "2026-11-11T16:22:58.511Z",
   "events": [
     {
       "id": "rec5m0pEh4rqQyRMM",
@@ -60,6 +60,16 @@
       "url": "https://www.eventbrite.com/e/2002084782479?aff=oddtdtcreator",
       "dateISO": "2026-11-17",
       "timeDisplay": "November 17 • 5:30 PM – 7:30 PM PT"
+    },
+    {
+      "id": "reczxFjkLPDhvahIJ",
+      "title": "",
+      "series": "Ask the Expert",
+      "platform": "Ask the Expert",
+      "chapter": "",
+      "url": "https://www.linkedin.com/events/7526316454653136896?viewAsMember=true",
+      "dateISO": "2026-11-17",
+      "timeDisplay": "November 17 • 11:30 AM – 12:00 PM ET"
     },
     {
       "id": "rec1UAfjgvGGHT1d4",
@@ -150,6 +160,16 @@
       "url": "https://innercircle.iawomen.com/c/iaw-events/monday-12-7-26",
       "dateISO": "2026-12-07",
       "timeDisplay": "December 7 • 12:00 PM – 12:30 PM ET"
+    },
+    {
+      "id": "recRz0X3ar8pCz7mL",
+      "title": "The Next Best Version of You",
+      "series": "Local Chapters - Las Vegas",
+      "platform": "Local Chapters - Las Vegas",
+      "chapter": "Las Vegas",
+      "url": "https://www.eventbrite.com/e/2003933834042?aff=oddtdtcreator",
+      "dateISO": "2026-12-08",
+      "timeDisplay": "December 8 • 5:30 PM – 7:30 PM PT"
     },
     {
       "id": "recevblx5WlUEWjUO",
